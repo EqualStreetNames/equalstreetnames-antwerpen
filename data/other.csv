@@ -1,5 +1,4 @@
 name,source,gender,wikidata,type
-Ankerrui,wikidata,,Q2465242,way
 Berlijnstraat,wikidata,,Q64,way
 Bernstraat,wikidata,,Q70,way
 Boedapeststraat,wikidata,,Q1781,way
@@ -37,7 +36,6 @@ Warschaustraat,wikidata,,Q270,way
 Wenenstraat,wikidata,,Q1741,way
 's-Herenstraat,,,,way
 "'t Neerhofke",,,,way
-A,,,,way
 Aakstraat,,,,way
 Aalbeslei,,,,way
 Aalmoezenierstraat,,,,way
@@ -95,6 +93,8 @@ Andernachstraat,,,,way
 "André Hermanslaan",,,,way
 "Angelus Roncallilaan",,,,relation
 Anjelierstraat,,,,way
+Ankerrui,,,,way
+"Ann Salenspad",,,,way
 "Anne van Dieststraat",,,,way
 Anneessensstraat,,,,way
 Annuntiatenstraat,,,,way
@@ -1729,7 +1729,6 @@ Monnikenplein,,,,way
 Monnikspad,,,,way
 "Monseigneur Van Goethemplein",,,,way
 Montebellostraat,,,,way
-Montensstraat,,,,way
 Montessoristraat,,,,way
 Montevideostraat,,,,way
 Montignystraat,,,,way
@@ -1908,6 +1907,7 @@ Papenstraatje,,,,way
 Papeweg,,,,way
 Paradeplein,,,,way
 Paradijsstraat,,,,way
+"Parallelweg Noord",,,,way
 "Park Spoor Noord",,,,way
 Parkbrug,,,,way
 Parkhelling,,,,way
@@ -2375,6 +2375,7 @@ Stoofstraat,,,,way
 Stoomstraat,,,,way
 Stoopstraat,,,,way
 Straalstraat,,,,way
+"Straat F3",,,,way
 Straatsburgbrug,,,,way
 Straatsburgdok-Noordkaai,,,,way
 Straatsburgdok-Zuidkaai,,,,way
@@ -2471,7 +2472,7 @@ Tuinbouwstraat,,,,way
 Tulpenlaan,,,,way
 Tulpstraat,,,,way
 "Tunnel Demerstraat",,,,way
-Tunnelplaaats,,,,way
+Tunnelplaats,,,,way
 Turckstraat,,,,way
 Tureluurstraat,,,,way
 Turnersstraat,,,,way
@@ -2578,6 +2579,7 @@ Valkstraat,,,,way
 "Van Wesenbekestraat",,,,way
 "Van de Perrelei",,,,way
 "Van de Poelstraat",,,,way
+"Van de Weyngaardplein",,,,way
 "Van de Wouwerstraat",,,,way
 "Van den Hautelei",,,,way
 "Van der Delftstraat",,,,way

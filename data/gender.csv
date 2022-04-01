@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 "Alice Nahonstraat",wikidata,F,Q2288294,way
-"Ann Salenspad",wikidata,F,Q14943175,way
 "Anna Bijnsstraat",wikidata,F,Q272497,way
 Beatrijslaan,wikidata,F,Q454198,way
 "Catharina Beersmansstraat",wikidata,F,Q88387564,way
@@ -35,6 +34,7 @@ Onze-Lieve-Vrouwstraat,wikidata,F,Q345,way
 "Regine Beerplein",wikidata,F,Q2736161,way
 Sint-Aldegondiskaai,wikidata,F,Q271330,way
 Stefaniestraat,wikidata,F,Q170197,way
+Zillionpad,wikidata,F,Q14943175,way
 "Abraham Verhoevenlaan",wikidata,M,Q2332042,way
 "Admiraal de Boisotstraat",wikidata,M,Q358905,way
 "Adolf Greinerstraat",wikidata,M,Q56258042,way
