@@ -893,7 +893,6 @@ Guldenvliesstraat,,,,way
 "Gustaaf Garittestraat",,,,way
 "Gustaaf Wappersstraat",,,,way
 Gyselsstraatje,,,,way
-HARMONIEPARK,,,,way
 Haachtstraat,,,,relation
 Haagbeuklei,,,,way
 Haagdoornlaan,,,,way
@@ -929,6 +928,7 @@ Happaertstraat,,,,way
 Hardenvoort,,,,way
 Haringrodestraat,,,,way
 Harinkvelden,,,,way
+Harmoniepark,,,,way
 Harmoniestraat,,,,way
 "Harold Rosherstraat",,,,way
 Haspengouwstraat,,,,way
@@ -1907,7 +1907,6 @@ Papenstraatje,,,,way
 Papeweg,,,,way
 Paradeplein,,,,way
 Paradijsstraat,,,,way
-"Parallelweg Noord",,,,way
 "Park Spoor Noord",,,,way
 Parkbrug,,,,way
 Parkhelling,,,,way
@@ -2422,7 +2421,7 @@ Terbekehofdreef,,,,way
 Terlinckstraat,,,,way
 Terlindenhofstraat,,,,way
 Terliststraat,,,,way
-Terloplein,,,,relation+way
+Terloplein,,,,relation
 Terlostraat,,,,way
 Terninckgang,,,,way
 Terninckstraat,,,,way
@@ -2607,6 +2606,7 @@ Venneborglaan,,,,way
 Venusstraat,,,,way
 Verbindingsdok-Oostkaai,,,,way
 Verbindingsdok-Westkaai,,,,way
+Verbindingsweg,,,,way
 "Verbindingsweg Straatsburgdok-Vosseschijnstraat",,,,way
 Verbondstraat,,,,way
 Verbrande-Entrepotstraat,,,,way
