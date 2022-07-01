@@ -1,4 +1,7 @@
 name,source,gender,wikidata,type
+Amethiststraat,wikidata,,Q79058,way
+Apollostraat,wikidata,,Q37340,relation+way
+Berchemlei,wikidata,,Q818804,way
 Berlijnstraat,wikidata,,Q64,way
 Bernstraat,wikidata,,Q70,way
 Boedapeststraat,wikidata,,Q1781,way
@@ -14,16 +17,21 @@ Kopenhagenstraat,wikidata,,Q1748,way
 Leuvenstraat,wikidata,,Q118958,way
 Lissabonstraat,wikidata,,Q597,way
 Madridstraat,wikidata,,Q2807,way
+Mercuriusstraat,wikidata,,Q1150,way
+Minervastraat,wikidata,,Q126916,way
+Morpheusstraat,wikidata,,Q194012,way
 Moskoustraat,wikidata,,Q649,way
 Oslostraat,wikidata,,Q585,way
 Parijslaan,wikidata,,Q90,way
 Praaglaan,wikidata,,Q1085,way
 Robijnstraat,wikidata,,Q43088,way
 Romestraat,wikidata,,Q220,way
+Ruggeveldlaan,wikidata,,Q95961727,way
 Saffierstraat,wikidata,,Q127583,relation+way
 Smaragdstraat,wikidata,,Q43513,way
 Statiestraat,wikidata,,Q800398,way
 Stockholmstraat,wikidata,,Q1754,way
+Thaliastraat,wikidata,,Q108019,way
 Topaasstraat,wikidata,,Q134985,way
 Turkooisstraat,wikidata,,Q165254,way
 "Van Praetstraat",wikidata,,Q22998597,way
@@ -33,6 +41,7 @@ Viséstraat,wikidata,,Q49743,way
 Waaslandtunnel,wikidata,,Q2465242,way
 Warschaustraat,wikidata,,Q270,way
 Wenenstraat,wikidata,,Q1741,way
+Zurenborgbrug,wikidata,,Q1863253,way
 's-Herenstraat,,,,way
 "'t Neerhofke",,,,way
 Aakstraat,,,,way
@@ -77,7 +86,6 @@ Akkerwindestraat,,,,way
 "Alfons Wellensstraat",,,,way
 "Alfons Wensstraat",,,,way
 "Alfred Nobellaan",,,,way
-"Alfred Oststraat",,,,way
 Alkstraat,,,,way
 Allewaertstraat,,,,way
 "Alphonse Hertogsstraat",,,,way
@@ -86,7 +94,6 @@ Alsemstraat,,,,way
 "Amandus Geenenlaan",,,,way
 Ambtmanstraat,,,,way
 Amerikalei,,,,way
-Amethiststraat,,,,way
 Amsterdamstraat,,,,way
 Andernachstraat,,,,way
 "André Hermanslaan",,,,way
@@ -102,7 +109,6 @@ Annuntiatenstraat,,,,way
 Antverpiastraat,,,,way
 Antwerpsebaan,,,,way
 Antwerpsesteenweg,,,,way
-Apollostraat,,,,relation+way
 Apostelstraat,,,,way
 Appelstraat,,,,way
 Arbeidersstraat,,,,relation+way
@@ -138,7 +144,6 @@ Auditoriumlaan,,,,way
 "August Van Cauwelaertlaan",,,,way
 "August Van Daelstraat",,,,way
 "August Van Putlei",,,,way
-"August Van de Wielelei",,,,way
 "August Vermeylenlaan",,,,relation+way
 "Auguste Oleffestraat",,,,way
 Augustijnenstraat,,,,way
@@ -194,7 +199,6 @@ Belpairestraat,,,,way
 Berchemboslaan,,,,way
 Berchembrug,,,,way
 Berchemhofstraat,,,,way
-Berchemlei,,,,way
 Berchemstadionstraat,,,,way
 Berendrechtbrug,,,,way
 Berendrechtdijk,,,,way
@@ -368,6 +372,7 @@ Burchtgracht,,,,way
 "Burgemeester E. Ryckaertsplein",,,,way
 "Burgemeester Eduard Waghemansbrug",,,,way
 "Burgemeester Jozef Masurebrug",,,,way
+"Burgemeester Jozef Nolf plein",,,,way
 "Burgemeester Jozef Nolfplein",,,,way
 "Burgemeester Verhulstplein",,,,way
 "Burgemeester Woutersstraat",,,,way
@@ -753,7 +758,6 @@ Fregatstraat,,,,relation
 Frieslandstraat,,,,way
 Fromentinstraat,,,,way
 Fruithoflaan,,,,way
-"Gabriël Vervoortstraat",,,,way
 Gabriëllastraat,,,,way
 Gagelveldenstraat,,,,way
 Galgenweellaan,,,,way
@@ -775,7 +779,6 @@ Gasthuishoevestraat,,,,way
 Gasthuistunnel,,,,way
 "Gaston Burssenslaan",,,,way
 "Gaston Fabrélaan",,,,way
-"Gebroeders Blommestraat",,,,way
 "Gebroeders De Wachterstraat",,,,way
 "Gebroeders Leemansstraat",,,,way
 "Gebroeders Van Raemdonckstraat",,,,way
@@ -1121,6 +1124,7 @@ Joostplaats,,,,way
 "Jos Van Geellaan",,,,way
 "Josée Nicolastraat",,,,way
 "Joseph Deckerslaan",,,,way
+"Joseph Hermansdreef",,,,way
 "Joseph Wuytslaan",,,,way
 "Josephina De Bakker-Breugelmansstraat",,,,way
 "Jozef Aertssensstraat",,,,way
@@ -1138,7 +1142,7 @@ Joostplaats,,,,way
 "Jozef Libertstraat",,,,way
 "Jozef Mulsstraat",,,,way
 "Jozef Nellenslei",,,,way
-"Jozef Nuytsstraat",,,,way
+"Jozef Paulypad",,,,way
 "Jozef Posenaerstraat",,,,way
 "Jozef Stormsstraat",,,,way
 "Jozef Van Gansenstraat",,,,way
@@ -1157,7 +1161,6 @@ Joostplaats,,,,way
 Junostraat,,,,way
 Jupiterstraat,,,,way
 Justitiestraat,,,,way
-"Juul Grietensstraat",,,,way
 "Juul Persijnstraat",,,,way
 Kaarderstraat,,,,way
 Kaasbrug,,,,way
@@ -1180,7 +1183,6 @@ Kapelstraat,,,,way
 Kapittelstraat,,,,way
 Kapucinessenstraat,,,,way
 Kardelaan,,,,way
-"Kardinaal Cardijnplein",,,,way
 "Karel De Wintstraat",,,,way
 "Karel Govaertsstraat",,,,way
 "Karel Janssensstraat",,,,way
@@ -1494,7 +1496,6 @@ Leerwijk,,,,way
 Leeuwenstraat,,,,way
 Leeuwerikstraat,,,,way
 Leeuwlantstraat,,,,way
-Lefèbvrebrug,,,,way
 Legendestraat,,,,way
 Legerstraat,,,,way
 Leguit,,,,way
@@ -1518,7 +1519,6 @@ Lentestraat,,,,way
 "Leopold de Waelstraat",,,,way
 Leopoldplaats,,,,way
 Lepelaarstraat,,,,way
-Letlandstraat,,,,way
 Letterkundestraat,,,,way
 Leugenberg,,,,way
 Leysstraat,,,,relation+way
@@ -1540,10 +1540,8 @@ Lindeboomstraat,,,,way
 Lindendreef,,,,way
 Lindenlei,,,,way
 Linnaeusstraat,,,,way
-Litouwenstraat,,,,way
 Liverpoollaan,,,,way
 "Lode Brionstraat",,,,way
-"Lode Cantensstraat",,,,way
 "Lode Sellaan",,,,way
 "Lode Vissenaekenstraat",,,,way
 "Lode Zielenslaan",,,,way
@@ -1678,7 +1676,6 @@ Mellinetplein,,,,way
 Meloenstraat,,,,way
 Menegemlei,,,,way
 Merantistraat,,,,way
-Mercuriusstraat,,,,way
 Merksemheidelaan,,,,way
 Merksemsesteenweg,,,,way
 Merksemsestraat,,,,way
@@ -1704,7 +1701,6 @@ Middelsteveld,,,,way
 Mimosastraat,,,,way
 Minderbroedersrui,,,,way
 Minderbroedersstraat,,,,way
-Minervastraat,,,,way
 "Minister Delbekelaan",,,,way
 "Minister Schollaertstraat",,,,way
 Miraeusstraat,,,,way
@@ -1726,7 +1722,6 @@ Molenveld,,,,way
 Monnikenhofstraat,,,,way
 Monnikenplein,,,,way
 Monnikspad,,,,way
-"Monseigneur Van Goethemplein",,,,way
 Montebellostraat,,,,way
 Montensstraat,,,,way
 Montessoristraat,,,,way
@@ -1741,7 +1736,6 @@ Moretusstraat,,,,way
 Morgenstraat,,,,way
 Moriaanstraat,,,,way
 Moriaanstraatje,,,,way
-Morpheusstraat,,,,way
 Mortselsesteenweg,,,,way
 Mouterijsteeg,,,,way
 Mozartstraat,,,,way
@@ -1971,7 +1965,6 @@ Pierenbergstraat,,,,way
 "Pieter De Ridderstraat",,,,way
 "Pieter De Smethstraat",,,,way
 "Pieter Doorlantlaan",,,,relation
-"Pieter Jozef Nauwelaertsstraat",,,,way
 "Pieter Van Passenstraat",,,,way
 "Pieter Verbertstraat",,,,way
 "Pieter van Hobokenstraat",,,,way
@@ -2132,7 +2125,6 @@ Rostockweg,,,,way
 Rotterdamstraat,,,,way
 "Rouaanse Kaai",,,,way
 Royaertstraat,,,,way
-Royersbrug,,,,way
 Rozehoevepad,,,,way
 Rozelaarlei,,,,way
 Rozemaaiveld,,,,way
@@ -2141,7 +2133,6 @@ Rozenstraat,,,,way
 Rucaplein,,,,way
 Ruckersplaats,,,,way
 Ruggeveldbrug,,,,way
-Ruggeveldlaan,,,,way
 "Ruige Heide",,,,way
 Ruimtevaartlaan,,,,way
 Runcvoort,,,,way
@@ -2426,7 +2417,6 @@ Terloplein,,,,relation
 Terlostraat,,,,way
 Terninckgang,,,,way
 Terninckstraat,,,,way
-Thaliastraat,,,,way
 Theaterplein,,,,way
 "Theophiel Roucourtstraat",,,,way
 Thibautstraat,,,,way
@@ -2713,6 +2703,7 @@ Waasdonk,,,,way
 Waaslandstraat,,,,way
 Wachthuisplein,,,,way
 Waelrantstraat,,,,way
+Waelsedreef,,,,way
 "Wake-up Cable waterski club",,,,way
 Walemstraat,,,,way
 Walenhoek,,,,relation
@@ -2881,7 +2872,6 @@ Zuidpad,,,,way
 Zuidvest,,,,relation
 Zuidweg,,,,way
 Zuidwendelaan,,,,way
-Zurenborgbrug,,,,way
 Zurenborgstraat,,,,way
 "Zuster Nathaliestraat",,,,way
 "Zusters van Onze-Lieve-Vrouwstraat",,,,way
