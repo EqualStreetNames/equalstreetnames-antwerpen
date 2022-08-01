@@ -617,6 +617,7 @@ Eekhoornlaan,,,,relation+way
 Eendrachtstraat,,,,way
 Eendstraat,,,,way
 Eenheidstraat,,,,way
+Eethuisstraat,,,,way
 Eggestraat,,,,way
 "Egied Segerslaan",,,,way
 Eglantierlaan,,,,relation+way
@@ -1207,6 +1208,7 @@ Kastelweg,,,,way
 Kasterveldenstraat,,,,way
 Kattenberg,,,,way
 Kattendijkbrug,,,,way
+Kattendijkdok,,,,way
 Kattendijkdok-Oostkaai,,,,way
 Kattendijkdok-Westkaai,,,,way
 Kattenstraat,,,,way
@@ -1222,10 +1224,10 @@ Kelderstraat,,,,way
 Kemmelberggang,,,,way
 Kemmelbergstraat,,,,way
 Kempenlandstraat,,,,way
-Kempenstraat,,,,way
 "Kempisch Plein",,,,way
 Kempischdok-Oostkaai,,,,way
 Kempischdok-Westkaai,,,,way
+Kempischdok-Zuidkaai,,,,way
 Kerkelei,,,,way
 Kerkendijk,,,,way
 Kerkepad,,,,way
@@ -1772,6 +1774,7 @@ Neerhofstraat,,,,way
 Neerlandweg,,,,way
 Neptunusstraat,,,,way
 Nerviërsstraat,,,,way
+"New Yorkkaai",,,,way
 Niedernhausenlaan,,,,way
 Niellonstraat,,,,way
 Nietweg,,,,way
@@ -2389,6 +2392,7 @@ Suikervoetpad,,,,way
 TRO,,,,way
 Tabakvest,,,,relation+way
 Tabernakelstraat,,,,way
+Talinnstraat,,,,way
 Tampicoplein,,,,way
 Tangehoefstraat,,,,way
 Tarwestraat,,,,way
