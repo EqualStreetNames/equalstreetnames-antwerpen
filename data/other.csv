@@ -5,13 +5,17 @@ Berchemlei,wikidata,,Q818804,way
 Berlijnstraat,wikidata,,Q64,way
 Bernstraat,wikidata,,Q70,way
 Boedapeststraat,wikidata,,Q1781,way
+Breydelstraat,wikidata,,Q1394408,way
 Charlottalei,wikidata,,Q15497,way
 "De Merodelei",wikidata,,Q1568461,way
 "Den Haaglaan",wikidata,,Q36600,way
 Edelgesteentenstraat,wikidata,,Q4990682,way
+Eekhoornlaan,wikidata,,Q4388,relation+way
 Fuggerstraat,wikidata,,Q155834,way
 Helsinkistraat,wikidata,,Q1757,way
 "Hertog van Brabantlei",wikidata,,Q2058509,way
+Jachtlaan,wikidata,,Q36963,relation+way
+"Jan Breydelstraat",wikidata,,Q1394408,way
 Kopenhagenstraat,wikidata,,Q1748,way
 "Le Grellelei",wikidata,,Q13748562,way
 Leuvenstraat,wikidata,,Q118958,way
@@ -470,7 +474,6 @@ Dassastraat,,,,way
 "De Brierstraat",,,,way
 "De Brouwerstraat",,,,way
 "De Bruynlaan",,,,way
-"De Burletlaan",,,,relation+way
 "De Costerstraat",,,,way
 "De Fourneaustraat",,,,way
 "De Francqueslei",,,,way
@@ -610,7 +613,6 @@ Edenplein,,,,way
 Edisonlaan,,,,way
 "Edmond Cretsstraat",,,,way
 "Edward Caertsstraat",,,,way
-Eekhoornlaan,,,,relation+way
 Eendrachtstraat,,,,way
 Eendstraat,,,,way
 Eenheidstraat,,,,way
@@ -1066,7 +1068,6 @@ Italiëlei,,,,way
 "Jaak Coveliersstraat",,,,way
 "Jaak Schram Plantsoen",,,,way
 Jachthavenweg,,,,way
-Jachtlaan,,,,relation+way
 Jagerspad,,,,way
 Jagersstraat,,,,way
 "Jan Bielstraat",,,,way
