@@ -59,7 +59,7 @@ Aartselaarstraat,,,,way
 Abdijstraat,,,,way
 Abelenprieel,,,,way
 Abtenstraat,,,,way
-Acacialaan,,,,relation
+Acacialaan,,,,relation+way
 "Achter 't hof",,,,way
 Achtersteveld,,,,way
 Achterstraatje,,,,way
@@ -857,6 +857,7 @@ Gravinstraat,,,,way
 Greinstraat,,,,way
 Grensbeeklaan,,,,way
 Grensstraat,,,,way
+Grensweg,,,,way
 "Griffier Schobbenslaan",,,,way
 Griffinstraat,,,,way
 Grijsdijk,,,,way
@@ -1226,6 +1227,7 @@ Kempenlandstraat,,,,way
 Kempischdok-Oostkaai,,,,way
 Kempischdok-Westkaai,,,,way
 Kempischdok-Zuidkaai,,,,way
+Kennedytunnel,,,,way
 Kerkelei,,,,way
 Kerkendijk,,,,way
 Kerkepad,,,,way
@@ -1541,6 +1543,7 @@ Lindendreef,,,,way
 Lindenlei,,,,way
 Linnaeusstraat,,,,way
 Liverpoollaan,,,,way
+"Lizzie Marsilypad",,,,way
 "Lode Brionstraat",,,,way
 "Lode Sellaan",,,,way
 "Lode Vissenaekenstraat",,,,way
@@ -2069,6 +2072,7 @@ Rendierstraat,,,,way
 "René Carelsstraat",,,,way
 "René Heylenstraat",,,,way
 "René Kerssestraat",,,,way
+"Renée Suerickx-Demarbaixstraat",,,,way
 Repenstraat,,,,way
 "Rerum Novarumlaan",,,,way
 Resedastraat,,,,way
@@ -2298,7 +2302,6 @@ Smalleweg,,,,way
 Smedenstraat,,,,way
 Smetsstraat,,,,way
 Smidseweg,,,,way
-Smokkelpad,,,,way
 Smyrnaplaats,,,,way
 Sneeuwbeslaan,,,,way
 Sneeuwbesstraat,,,,way
@@ -2545,6 +2548,7 @@ Valkstraat,,,,way
 "Van Luppenstraat",,,,way
 "Van Maerlantstraat",,,,way
 "Van Marsenillestraat",,,,way
+"Van Meeterenkaai",,,,way
 "Van Montfortstraat",,,,way
 "Van Nevelestraat",,,,way
 "Van Notenstraat",,,,way
