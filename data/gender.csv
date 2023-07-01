@@ -32,6 +32,7 @@ Marie-Josélaan,wikidata,F,Q72919,way
 "Nicole Van Goethempad",wikidata,F,Q4322238,way
 Onze-Lieve-Vrouwstraat,wikidata,F,Q345,way
 "Prinses Astridlaan",wikidata,F,Q230238,relation
+"Prinses Joséphine Charlottelaan",wikidata,F,Q160984,way
 "Regine Beerplein",wikidata,F,Q2736161,way
 Sint-Aldegondiskaai,wikidata,F,Q271330,way
 Sint-Theresiastraat,wikidata,F,Q181715,way
@@ -40,11 +41,13 @@ Zillionpad,wikidata,F,Q14943175,way
 "Abraham Verhoevenlaan",wikidata,M,Q2332042,way
 "Admiraal de Boisotstraat",wikidata,M,Q358905,way
 "Adolf Greinerstraat",wikidata,M,Q56258042,way
+"Adolphe Meurissestraat",wikidata,M,Q16011498,way
 "Adriaan Brouwerstraat",wikidata,M,Q364139,way
 "Albert Claudestraat",wikidata,M,Q233943,way
 Albertstraat,wikidata,M,Q311452,way
 "Albrecht Dürerstraat",wikidata,M,Q5580,way
 "Alfons De Cockstraat",wikidata,M,Q2100582,way
+"Alfons Engelsstraat",wikidata,M,Q115822703,way
 "Alfons Jeurissenstraat",wikidata,M,Q1973820,way
 "Alfons Schneiderlaan",wikidata,M,Q104471652,way
 "Alfred Coolsstraat",wikidata,M,Q11292079,way
@@ -98,7 +101,9 @@ Desguinlei,wikidata,M,Q1984305,way
 Dodoensstraat,wikidata,M,Q437466,way
 "Dokter Romain De Velstraat",wikidata,M,Q20762623,way
 "Dokter Van de Perrelei",wikidata,M,Q2658124,way
+"Door Verstraeteplaats",wikidata,M,Q2537391,way
 Edelinckstraat,wikidata,M,Q893319,way
+"Edgar Tinelstraat",wikidata,M,Q377071,way
 Edisonstraat,wikidata,M,Q8743,way
 "Edmond de Coussemakerstraat",wikidata,M,Q1240856,way
 "Eduard Van Steenbergenlaan",wikidata,M,Q2140838,way
@@ -127,6 +132,7 @@ Edisonstraat,wikidata,M,Q8743,way
 "Frans Halsplein",wikidata,M,Q167654,way
 "Frans Hensstraat",wikidata,M,Q3082993,way
 "Frans Van Hombeeckplein",wikidata,M,Q5484238,relation+way
+"Frans de Cortstraat",wikidata,M,Q2361397,way
 "Frédéric Bruynseelslaan",wikidata,M,Q5506679,way
 "Frederik de Merodeplein",wikidata,M,Q2570318,relation+way
 "Frederik de Merodestraat",wikidata,M,Q2570318,way
@@ -279,7 +285,9 @@ Minckelersstraat,wikidata,M,Q910247,way
 "Monseigneur Van Goethemplein",wikidata,M,Q60050545,way
 Moorkensplein,wikidata,M,Q19973904,way
 Napoleonkaai,wikidata,M,Q517,way
+Nottebohmstraat,wikidata,M,Q27863534,way
 Oedenkovenstraat,wikidata,M,Q15814117,way
+Oranjestraat,wikidata,M,Q78454,way
 Orteliuskaai,wikidata,M,Q232916,way
 Osystraat,wikidata,M,Q2175699,way
 "Otto Veniusstraat",wikidata,M,Q785355,way
@@ -367,6 +375,7 @@ Vinçottestraat,wikidata,M,Q2483743,way
 "Willem Eekelersstraat",wikidata,M,Q2664770,way
 "Willem Linnigstraat",wikidata,M,Q17651285,way
 "Willem Ogierplaats",wikidata,M,Q2354066,way
+"Willy Vandersteenplein",wikidata,M,Q543908,way
 "Zénobe Grammestraat",wikidata,M,Q247603,way
 Zetternamstraat,wikidata,M,Q3233353,way
 Huybrechtsstraat,csv,+,,way
