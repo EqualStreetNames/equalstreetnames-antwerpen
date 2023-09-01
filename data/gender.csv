@@ -16,7 +16,7 @@ Fourmentstraat,wikidata,F,Q1965732,way
 "Isabella Brantstraat",wikidata,F,Q2215964,way
 Isabellalei,wikidata,F,Q158256,way
 "Jeanne Brabantstunnel",wikidata,F,Q606327,way
-"Jos Brabantstunnel",wikidata,F,Q98601354,way
+"Jos Brabantstunnel",wikidata,F,Q52480304,way
 "Josée Nicolastraat",wikidata,F,Q2275512,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Astridplein",wikidata,F,Q230238,relation+way
@@ -95,8 +95,8 @@ Appelmansstraat,wikidata,M,Q2018514,way
 Bolivarplaats,wikidata,M,Q8605,way
 Bolivartunnel,wikidata,M,Q8605,way
 Boudewijnbrug,wikidata,M,Q12976,way
-Boudewijnssteeg,wikidata,M,Q12976,way
-Boudewijnsstraat,wikidata,M,Q121001530,way
+Boudewijnssteeg,wikidata,M,Q94688579,way
+Boudewijnsstraat,wikidata,M,Q94688579,way
 Boudewijnweg,wikidata,M,Q12976,way
 Brederodestraat,wikidata,M,Q1349577,way
 Breydelstraat,wikidata,M,Q1394408,way
@@ -194,6 +194,7 @@ Ellermanstraat,wikidata,M,Q121001920,way
 "Generaal Cabrastraat",wikidata,M,Q2839730,way
 "Generaal Drubbelstraat",wikidata,M,Q98496643,way
 "Generaal Eisenhowerlei",wikidata,M,Q9916,way
+"Generaal Lemanstraat",wikidata,M,Q277876,way
 "Generaal Van Merlenstraat",wikidata,M,Q4014597,relation+way
 "Georges Eekhoudlaan",wikidata,M,Q728405,way
 "Ger Schmookstraat",wikidata,M,Q42899787,way
@@ -285,7 +286,9 @@ Jordaenskaai,wikidata,M,Q270658,way
 "Jozef Leemanslaan",wikidata,M,Q120722460,way
 "Jozef Liesstraat",wikidata,M,Q18421731,way
 "Jozef Mulsstraat",wikidata,M,Q19408788,way
+"Jozef Nellenslei",wikidata,M,Q17429034,way
 "Jozef Nuytsstraat",wikidata,M,Q50411812,way
+"Jozef Van Poppelstraat",wikidata,M,Q42853343,way
 "Jozef Wautersstraat",wikidata,M,Q30112563,way
 "Jozef de Hasquestraat",wikidata,M,Q11292317,way
 "Jules Bilmeyerstraat",wikidata,M,Q2423927,way
@@ -331,8 +334,10 @@ Lamorinièrestraat,wikidata,M,Q326082,way
 "Le Corbusierlaan",wikidata,M,Q4724,way
 "Leo Baekelandstraat",wikidata,M,Q243442,way
 "Leo Bosschartlaan",wikidata,M,Q704791,way
+"Leo J. Krynlaan",wikidata,M,Q2054194,way
 "Léon Huybrechtsstraat",wikidata,M,Q2465916,way
 "Léon Stynenstraat",wikidata,M,Q12013428,way
+"Leopold De Vriesstraat",wikidata,M,Q122063254,way
 "Leopold Vermeirenstraat",wikidata,M,Q2261379,way
 "Leopold de Waelplaats",wikidata,M,Q6526933,way
 "Leopold de Waelstraat",wikidata,M,Q6526933,way
@@ -414,6 +419,7 @@ Pestalozzistraat,wikidata,M,Q105428,way
 "Pius X-plein",wikidata,M,Q43739,way
 Plantinkaai,wikidata,M,Q380360,way
 Pourbusstraat,wikidata,M,Q934540,way
+"Prins Albert lei",wikidata,M,Q55008046,way
 "Prins Albertlei",wikidata,M,Q55008046,way
 "Prins Boudewijnlaan",wikidata,M,Q12976,relation+way
 "Prins Karellaan",wikidata,M,Q445553,relation+way
@@ -511,6 +517,7 @@ Vorstermanstraat,wikidata,M,Q897552,way
 "Willem Gijsselsstraat",wikidata,M,Q41885148,way
 "Willem Linnigstraat",wikidata,M,Q17651285,way
 "Willem Ogierplaats",wikidata,M,Q2354066,way
+"Willem Van Laarstraat",wikidata,M,Q122065201,way
 "Willem van Haechtlaan",wikidata,M,Q3568361,way
 "Willy Vandersteenplein",wikidata,M,Q543908,way
 "Willy de Roosstraat",wikidata,M,Q3569195,way
