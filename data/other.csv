@@ -10,7 +10,6 @@ Argentiniëlaan,wikidata,,Q414,way
 "Asiadok Oostkaai",wikidata,,Q2191742,way
 Asiadok-Oostkaai,wikidata,,Q2191742,way
 Asiadok-Westkaai,wikidata,,Q2191742,way
-Asiadok-Zuidkaai,wikidata,,Q2191742,way
 Atomiumlaan,wikidata,,Q180901,way
 Augustijnenstraat,wikidata,,Q214528,way
 Baltimorestraat,wikidata,,Q5092,way
@@ -98,6 +97,7 @@ Gloriantlaan,wikidata,,Q2251982,way
 Goedendagstraat,wikidata,,Q1371963,way
 Goteborgweg,wikidata,,Q25287,way
 Goudbloemstraat,wikidata,,Q145930,way
+Granaatstraat,wikidata,,Q105368,way
 Groenkerkhofstraat,wikidata,,Q58329790,way
 Grotebeerstraat,wikidata,,Q8918,way
 Grotehondstraat,wikidata,,Q10538,way
@@ -222,7 +222,6 @@ Salm-Salmstraat,wikidata,,Q570522,way
 Samberstraat,wikidata,,Q208267,way
 Scheldelaan,wikidata,,Q37620,way
 Scheldestraat,wikidata,,Q37620,relation+way
-Schengenplein,wikidata,,Q1969730,relation+way
 Schorpioenstraat,wikidata,,Q8865,way
 Schotensesteenweg,wikidata,,Q655203,way
 Selderstraat,wikidata,,Q23012379,way
@@ -351,6 +350,7 @@ Antwerpsesteenweg,,,,way
 Apostelstraat,,,,way
 Appelstraat,,,,way
 Arbeidersstraat,,,,relation+way
+Arenaplein,,,,way
 Arenbergstraat,,,,way
 Arendshoflaan,,,,way
 Armeduivelstraat,,,,way
@@ -363,6 +363,7 @@ Arsenaalstraat,,,,way
 Artiestengang,,,,way
 Asblok,,,,way
 "Asiadok - Oostkaai",,,,way
+Asiadok-Zuidkaai,,,,way
 Asterlaan,,,,way
 Athenestraat,,,,way
 Atlasstraat,,,,way
@@ -965,7 +966,6 @@ Gounodstraat,,,,way
 Graanmarkt,,,,way
 Graanstraat,,,,way
 Gramayestraat,,,,way
-Granaatstraat,,,,way
 Grapheusstraat,,,,way
 Grasbloemstraat,,,,way
 Grasmuslaan,,,,way
@@ -2123,6 +2123,7 @@ Scheldetunnel,,,,way
 Scheldevrijstraat,,,,way
 Schelpstraat,,,,way
 Schemerlandlaan,,,,way
+Schengenplein,,,,relation
 Schenkeldijk,,,,way
 Schepelstraat,,,,way
 Schepersveldlei,,,,way
@@ -2545,6 +2546,7 @@ Vlijtstraat,,,,way
 Voetbalstraat,,,,way
 Voetboogstraat,,,,way
 "Voetgangerstunnel Berchemstadionstraat",,,,way
+"Voetweg 31",,,,way
 Vogelkersstraat,,,,way
 Vogelzanglaan,,,,relation+way
 Volhardingstraat,,,,way
@@ -2721,6 +2723,7 @@ Zomerdijklaan,,,,way
 Zomerweg,,,,way
 Zonnedauwstraat,,,,way
 Zonnewijzerstraat,,,,way
+"Zoomse Weg",,,,way
 Zoomweg-Zuid,,,,way
 Zorgvlietstraat,,,,way
 Zoutedijk,,,,relation
@@ -2751,4 +2754,3 @@ Zwijgerstraat,,,,way
 "de Robianostraat",,,,way
 kievitplein,,,,way
 lovergang,,,,way
-"voetweg 31",,,,way
