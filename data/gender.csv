@@ -34,6 +34,7 @@ Louizastraat,wikidata,F,Q72795,way
 Lovelingstraat,wikidata,F,Q684376,way
 Magdalenastraat,wikidata,F,Q63070,way
 "Maria Pijpelincxstraat",wikidata,F,Q2355955,way
+"Maria Telkesstraat",wikidata,F,Q7415,way
 "Maria Van Sinaplein",wikidata,F,Q14832305,way
 Maria-Henriettalei,wikidata,F,Q234047,way
 Maria-Henriëttalei,wikidata,F,Q234047,way
@@ -43,6 +44,7 @@ Marie-Josélaan,wikidata,F,Q72919,way
 "Marleen Van Ouytselstraat",wikidata,F,Q22443103,way
 "Mathilde Schroyensstraat",wikidata,F,Q15996,way
 "Mevrouw Courtmansstraat",wikidata,F,Q1961560,way
+"Moeder SAROV-straat",wikidata,F,Q45202444,way
 "Neel Dofflaan",wikidata,F,Q464167,way
 "Nicole Van Goethempad",wikidata,F,Q4322238,way
 Onze-Lieve-Vrouwstraat,wikidata,F,Q345,way
@@ -88,6 +90,7 @@ Anselmostraat,wikidata,M,Q54860717,way
 "Antoon van Dyckstraat",wikidata,M,Q150679,way
 Appelmansstraat,wikidata,M,Q2018514,way
 "Arthur Sterckstraat",wikidata,M,Q65966502,way
+"August Leyweg",wikidata,M,Q17621654,way
 "August Michielsstraat",wikidata,M,Q893319,way
 "August Sniedersstraat",wikidata,M,Q2192202,way
 "August Van Cauwelaertlaan",wikidata,M,Q2287312,way
@@ -183,8 +186,10 @@ Ellermanstraat,wikidata,M,Q121001920,way
 Florisstraat,wikidata,M,Q543948,way
 "François Pelsaertstraat",wikidata,M,Q331564,way
 "Franklin Rooseveltplaats",wikidata,M,Q8007,relation+way
+"Frans Beckersstraat",wikidata,M,Q123397703,way
 "Frans Beirenslaan",wikidata,M,Q110039232,way
 "Frans Brandsstraat",wikidata,M,Q1981167,way
+"Frans Bresseleersstraat",wikidata,M,Q96654560,way
 "Frans Buyensstraat",wikidata,M,Q2106171,way
 "Frans De Cortlaan",wikidata,M,Q2361397,way
 "Frans De Vriendtstraat",wikidata,M,Q18575616,way
@@ -297,6 +302,7 @@ Jordaenskaai,wikidata,M,Q270658,way
 "Jos Ratinckxstraat",wikidata,M,Q2490941,way
 "Jos Smolderenstraat",wikidata,M,Q2319634,way
 "Jos Van Eyndestraat",wikidata,M,Q3183968,way
+"Joseph Hermansdreef",wikidata,M,Q433244,way
 "Jozef Balstraat",wikidata,M,Q2344677,way
 "Jozef Cuyversstraat",wikidata,M,Q14851977,way
 "Jozef De Weerdtstraat",wikidata,M,Q115834431,way
@@ -325,6 +331,7 @@ Jordaenskaai,wikidata,M,Q270658,way
 "Karel Coggestraat",wikidata,M,Q2182432,way
 "Karel Cuypersstraat",wikidata,M,Q2945403,way
 "Karel De Preterlei",wikidata,M,Q97495842,way
+"Karel De Wintstraat",wikidata,M,Q42793143,way
 "Karel Geertsstraat",wikidata,M,Q16912217,way
 "Karel Mertensstraat",wikidata,M,Q2242842,way
 "Karel Mestdaghplein",wikidata,M,Q1817822,way
@@ -337,6 +344,7 @@ Jordaenskaai,wikidata,M,Q270658,way
 "Karel Van de Woestijnelei",wikidata,M,Q1813000,way
 "Karel Van de Woestijnestraat",wikidata,M,Q1813000,way
 "Karel Van den Oeverstraat",wikidata,M,Q2138462,way
+"Karel Weylerstraat",wikidata,M,Q2171749,way
 Kennedytunnel,wikidata,M,Q9696,way
 "Kleine Pieter Potstraat",wikidata,M,Q65643560,way
 "Koning Albertparkweg",wikidata,M,Q55008046,way
@@ -371,11 +379,13 @@ Linnaeusstraat,wikidata,M,Q1043,way
 "Lodewijk De Raetstraat",wikidata,M,Q2625919,way
 "Lodewijk Gerritslaan",wikidata,M,Q15878832,way
 "Lodewijk Mortelmansstraat",wikidata,M,Q358623,way
+"Lodewijk Ontropstraat",wikidata,M,Q115493908,way
 "Lodewijk Van Berckenlaan",wikidata,M,Q1999163,relation+way
 "Lodewijk de Vochtstraat",wikidata,M,Q2652109,way
 "Lodewijk van Velthemlaan",wikidata,M,Q2568999,way
 "Louis Paul Boonstraat",wikidata,M,Q469627,way
 "Louis Straussstraat",wikidata,M,Q3263143,way
+"Ludwig Burchardstraat",wikidata,M,Q1874264,way
 "Luitenant Lippenslaan",wikidata,M,Q19835682,way
 "Maarschalk Gérardstraat",wikidata,M,Q289255,way
 "Maarschalk Montgomerylaan",wikidata,M,Q152025,way
@@ -448,6 +458,7 @@ Pourbusstraat,wikidata,M,Q934540,way
 "Prins Karellaan",wikidata,M,Q445553,relation+way
 "Prins Leopoldlaan",wikidata,M,Q12967;Q690327,way
 "Prins Leopoldstraat",wikidata,M,Q12971,way
+"Prosper De Witstraat",wikidata,M,Q21646916,way
 "Prosper van Langendonckstraat",wikidata,M,Q2754460,way
 Pyckestraat,wikidata,M,Q5340226,way
 "Quinten Matsijsdoorgang",wikidata,M,Q314275,way
@@ -470,6 +481,7 @@ Rudolfstraat,wikidata,M,Q152923,way
 "Russel Ohlstraat",wikidata,M,Q1144183,way
 Ryckmansstraat,wikidata,M,Q16219289,way
 Sanderusstraat,wikidata,M,Q2131492,way
+Schamelhoutstraat,wikidata,M,Q3121031,way
 Schillerstraat,wikidata,M,Q22670,way
 "Sergeant De Bruynestraat",wikidata,M,Q768517,way
 Sergeyselsstraat,wikidata,M,Q97155307,way
@@ -520,6 +532,7 @@ Teniersplaats,wikidata,M,Q335022,way
 "Van Leriusstraat",wikidata,M,Q1600620,way
 "Van Luppenstraat",wikidata,M,Q2015178,way
 "Van Maerlantstraat",wikidata,M,Q1393906,way
+"Van Meeterenkaai",wikidata,M,Q240336,way
 "Van Meterenkaai",wikidata,M,Q240336,way
 "Van Noortstraat",wikidata,M,Q351328,way
 "Van Schoonbekestraat",wikidata,M,Q15875686,way
