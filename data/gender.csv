@@ -35,7 +35,7 @@ Lovelingstraat,wikidata,F,Q684376,way
 Magdalenastraat,wikidata,F,Q63070,way
 "Maria Pijpelincxstraat",wikidata,F,Q2355955,way
 "Maria Telkesstraat",wikidata,F,Q7415,way
-"Maria Van Sinaplein",wikidata,F,Q14832305,way
+"Maria Van Sinaplein",wikidata,F,Q14832305,relation
 Maria-Henriettalei,wikidata,F,Q234047,way
 Maria-Henriëttalei,wikidata,F,Q234047,way
 Maria-Theresialei,csv+wikidata,F,Q131706,way
@@ -97,6 +97,7 @@ Appelmansstraat,wikidata,M,Q2018514,way
 "August Van de Wielelei",wikidata,M,Q96654538,way
 "August Vermeylenlaan",wikidata,M,Q764378,way
 "Baron Dhanislaan",wikidata,M,Q2344129,way
+"Baron Joostensstraat",wikidata,M,Q26838310,way
 "Baron Sadoinestraat",wikidata,M,Q27942653,way
 "Baron de Catersstraat",wikidata,M,Q2664454,way
 "Bernard De Pooterstraat",wikidata,M,Q55768933,way
@@ -246,7 +247,7 @@ Guicciardinistraat,wikidata,M,Q940660,way
 "Herman Van den Reeckstraat",wikidata,M,Q5535272,way
 "Herman Vosstraat",wikidata,M,Q1990667,way
 "Hubert Lampolaan",wikidata,M,Q953325,way
-"Hugo Schiltzplein",wikidata,M,Q716589,way
+"Hugo Schiltzplein",wikidata,M,Q716589,relation
 "Hugo Verrieststraat",wikidata,M,Q981444,way
 "Hugues C. Pernathlaan",wikidata,M,Q2115684,way
 "Isidoor Opsomerstraat",wikidata,M,Q3131746,way
@@ -271,6 +272,7 @@ Guicciardinistraat,wikidata,M,Q940660,way
 "Jan Frans Van de Gaerstraat",wikidata,M,Q13735467,way
 "Jan Frans Willemsstraat",wikidata,M,Q983184,way
 "Jan Ligthartplein",wikidata,M,Q2445355,way
+"Jan Moorkensstraat",wikidata,M,Q115814353,way
 "Jan Olieslagersstraat",wikidata,M,Q527442,way
 "Jan Palfijnstraat",wikidata,M,Q1682107,way
 "Jan Samynlaan",wikidata,M,Q18001745,way
