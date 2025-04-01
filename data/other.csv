@@ -1128,6 +1128,7 @@ Hemelstraat,,,,way
 Hendriklei,,,,way
 Hennepstraat,,,,way
 "Henri Dunantstraat",,,,way
+"Henri storck pad",,,,way
 Herautenlaan,,,,way
 Herderinstraat,,,,way
 Herderstraat,,,,way
@@ -1761,7 +1762,7 @@ Middelburgstraat,,,,way
 Middelheimlaan,,,,way
 Middelmolenlaan,,,,way
 Middelsteveld,,,,way
-"Milouda Sagersplein",,,,way
+"Milouda Sagersplein",,,,relation
 Minderbroedersrui,,,,way
 Minderbroedersstraat,,,,way
 Moerbezielei,,,,way
@@ -1869,7 +1870,6 @@ Ooievaarsnest,,,,way
 Oorderseweg,,,,way
 Oortbroek,,,,way
 "Oostelijke Schelde-Rijnweg",,,,way
-"Oostelijke Schelderijnweg",,,,way
 Oostendestraat,,,,way
 Oostenstraat,,,,way
 Oostergeest,,,,way
@@ -2349,6 +2349,7 @@ Suikerrui,,,,relation+way
 Suikervoetpad,,,,way
 "Sus Van den Eyndestraat",,,,way
 "Suzanne Spanhovenstraat",,,,way
+TRO,,,,way
 Tabakvest,,,,relation+way
 Tabernakelstraat,,,,way
 Tangehoefstraat,,,,way
