@@ -276,10 +276,12 @@ Sneeuwbeslaan,wikidata,,Q158150,way
 Sneeuwbesstraat,wikidata,,Q158150,way
 Sperwerlaan,wikidata,,Q25380,way
 Spoorwegstraat,wikidata,,Q160342,way
+Sprinkhaanstraat,wikidata,,Q83902,way
 Statiestraat,wikidata,,Q800398,way
 Steenbokstraat,wikidata,,Q10535,way
 Steenplein,wikidata,,Q1014126,way
 "Stella Marisstraat",wikidata,,Q1186717,way
+Sterckshoflei,wikidata,,Q2565499,way
 Stierstraat,wikidata,,Q10570,way
 Stockholmstraat,wikidata,,Q1754,way
 Straatsburgbrug,wikidata,,Q2805618,way
@@ -300,6 +302,7 @@ Turnhoutsebaan,wikidata,,Q271783,way
 "Twee Netenstraat",wikidata,,Q1206596;Q1545935,way
 Tweelingenstraat,wikidata,,Q8923,way
 VIIde-Olympiadelaan,wikidata,,Q8128,way
+Vaartweg,wikidata,,Q2627129,way
 Valaardreef,wikidata,,Q110709443,way
 "Van Praetstraat",wikidata,,Q22998597,way
 "Van de Wervestraat",wikidata,,Q3280283,way
@@ -360,12 +363,14 @@ Achturendagstraat,,,,way
 Adelaarstraat,,,,way
 "Adelbert Kennisplein",,,,way
 "Adolf Menystraat",,,,way
+Adrinkhovenlaan,,,,way
 Afrikalaan,,,,way
 "Afrit Merksem",,,,way
 Ahornenlaan,,,,relation
 "Aimé De Graevestraat",,,,way
 Akker,,,,way
 Akkerbouwstraat,,,,way
+Akkerdonckstraat,,,,way
 Akkerwindestraat,,,,way
 "Albert Bevernagelei",,,,way
 "Albert Dickschenstraat",,,,way
@@ -531,6 +536,7 @@ Bloemenveld,,,,way
 Bloemistenstraat,,,,way
 Bloemstraat,,,,way
 Blokweg,,,,way
+Boechoutsesteenweg,,,,way
 Boeierstraat,,,,way
 Boekenberglei,,,,way
 Boekenbergpark,,,,way
@@ -555,6 +561,7 @@ Boonhoek,,,,way
 Booswegske,,,,way
 Bordink,,,,way
 Borrewaterstraat,,,,way
+Borsbeekbrug,,,,way
 Borsbeeksebrug,,,,way
 Borzestraat,,,,way
 Bosduifstraat,,,,way
@@ -593,6 +600,7 @@ Brazilianenstraat,,,,relation+way
 Bredestraat,,,,relation+way
 Bredeweg,,,,way
 Breedsteert,,,,way
+Breedveld,,,,way
 Breemheuvel,,,,way
 Bremboslei,,,,way
 Bresstraat,,,,way
@@ -601,7 +609,9 @@ Brigittijnenhof,,,,way
 Brilduikerstraat,,,,way
 "Broeder Frederikstraat",,,,way
 Broederminstraat,,,,way
+Broekstraat,,,,way
 Bronstraat,,,,way
+Brouwershoek,,,,way
 Brouwersvliet,,,,way
 Broydenborglaan,,,,way
 Brugstraat,,,,way
@@ -621,12 +631,14 @@ Burchtgracht,,,,way
 "Burgemeester Verhulstplein",,,,way
 "Burgemeester Woutersstraat",,,,way
 Burgerwelzijn,,,,way
+Bursebekestraat,,,,way
 Buurtspoorweglei,,,,way
 "Bypass R1",,,,way
 Cadetstraat,,,,way
 Calcuttastraat,,,,way
 Callensstraat,,,,way
 Camelialei,,,,way
+Cantincrodelaan,,,,way
 Caravellestraat,,,,way
 Caronstraat,,,,way
 Carrettestraat,,,,way
@@ -662,8 +674,10 @@ Congobootstraat,,,,way
 Coöperatielaan,,,,way
 Coppenolstraat,,,,way
 Coremansstraat,,,,way
+Corluylei,,,,way
 "Corneel Franckstraat",,,,way
 "Corneel Jaspersstraat",,,,way
+"Corneel Smitslei",,,,way
 "Corneel Van Reethstraat",,,,way
 "Corneel Vermijlenlaan",,,,way
 "Cornelis Dyckstratelaan",,,,way
@@ -727,6 +741,7 @@ Dassastraat,,,,way
 "De Sevillastraat",,,,way
 "De Sossastraat",,,,way
 "De Vest",,,,relation
+"De Villegasplein",,,,way
 "De Violier",,,,way
 "De Vlaschaardstraat",,,,way
 "De Vréstraat",,,,way
@@ -751,6 +766,7 @@ Deurnsebaan,,,,way
 Dianalaan,,,,relation
 Dichtersstraat,,,,way
 "Diepe Roet",,,,way
+Diepenbeekvelde,,,,way
 Diepestraat,,,,way
 Diercxsensstraat,,,,way
 Dijkgraaflaan,,,,way
@@ -775,6 +791,7 @@ Doggenlaan,,,,way
 "Dokter Verhoevenstraat",,,,way
 Dominicanenstraat,,,,way
 Donkweg,,,,way
+Doolweg,,,,way
 Doornelei,,,,way
 Doornstraat,,,,way
 Dopheidestraat,,,,way
@@ -803,6 +820,7 @@ Drukpersstraat,,,,way
 Drummondstraat,,,,way
 "Du Chastellei",,,,way
 "Du Montstraat",,,,way
+Duinplak,,,,way
 Duinsteeg,,,,way
 Duinstraat,,,,way
 Duivelshoekweg,,,,way
@@ -816,6 +834,7 @@ Edenplein,,,,way
 Edmond,,,,way
 "Edmond Cretsstraat",,,,way
 "Edward Caertsstraat",,,,way
+Eenamelaan,,,,way
 Eendrachtstraat,,,,way
 Eendstraat,,,,way
 Eenheidstraat,,,,way
@@ -826,6 +845,7 @@ Eiermarkt,,,,way
 Eigenheerdstraat,,,,way
 Eikblokstraat,,,,way
 Eikelstraat,,,,way
+Eikendreef,,,,way
 Eikenlei,,,,way
 Eikenstraat,,,,way
 Ekersedijk,,,,way
@@ -862,6 +882,7 @@ Ettenhovendijkweg,,,,way
 "Eugeen Fahylaan",,,,way
 "Eugeen Meeusstraat",,,,way
 "Eugeen Verbiststraat",,,,way
+"Eugeen Verelstlei",,,,way
 "Eugène Hendrickxstraat",,,,way
 Europalaan,,,,way
 Evenakkerpad,,,,way
@@ -875,6 +896,7 @@ Fazantenlaan,,,,relation
 "Ferdinand Berckmansstraat",,,,way
 Ferdinandusdijkstraat,,,,way
 "Fietsbrug IJzerlaan",,,,way
+"Fietstunnel onder Frans Beirenslaan",,,,way
 "Filip Williotstraat",,,,way
 Filomenastraat,,,,way
 "Finse Piste Galgenweel",,,,way
@@ -914,6 +936,7 @@ Franckenstraat,,,,way
 "Frans Smekensstraat",,,,way
 "Frans Standaertlei",,,,way
 "Frans Stienletlaan",,,,way
+"Frans Theyslei",,,,way
 "Frans Tijsmanstunnel",,,,way
 "Frans Van Dijckstraat",,,,way
 "Frans Van Heymbeecklaan",,,,way
@@ -948,6 +971,7 @@ Gasthuistunnel,,,,way
 "Gebroeders De Wachterstraat",,,,way
 "Gebroeders Leemansstraat",,,,way
 "Gebroeders Van Raemdonckstraat",,,,way
+"Gebroeders Van der Auwerabaan",,,,way
 Geefsstraat,,,,way
 Geelhandplaats,,,,way
 Geerbeekstraat,,,,way
@@ -967,6 +991,7 @@ Genachtenstraat,,,,way
 "Generaal Mahieustraat",,,,way
 "Generaal Slingeneyerlaan",,,,way
 "George Ivanowlaan",,,,way
+"Georges De Grooflei",,,,way
 "Gerardus Stijnenlaan",,,,way
 Gerarduslei,,,,way
 Germinalstraat,,,,way
@@ -1001,6 +1026,7 @@ Gounodstraat,,,,way
 Graanmarkt,,,,way
 Graanstraat,,,,way
 Gramayestraat,,,,way
+Granvellelaan,,,,way
 Grapheusstraat,,,,way
 Grasbloemstraat,,,,way
 Grasmuslaan,,,,way
@@ -1015,12 +1041,15 @@ Grensweg,,,,way
 "Griffier Schobbenslaan",,,,way
 Griffinstraat,,,,way
 Grijsdijk,,,,way
+Grimbert,,,,way
 "Groen Neerland",,,,way
 Groendalstraat,,,,way
 Groenenborgerlaan,,,,relation+way
 Groenendaallaan,,,,way
 Groenenhoekstraat,,,,way
+Groenhofstraat,,,,way
 Groeningerplein,,,,way
+Groeningerstraat,,,,way
 Groenplaats,,,,relation+way
 Groenstraat,,,,way
 "Groot Hagelkruis",,,,way
@@ -1081,6 +1110,7 @@ Haverloosveld,,,,way
 Haverstraat,,,,way
 Hazelarenstraat,,,,way
 Hazelnootlei,,,,way
+Hazenpad,,,,way
 "Heer Van Bergenstraat",,,,way
 Heesterbos,,,,way
 Heiblokken,,,,way
@@ -1147,6 +1177,7 @@ Hollebeekstraat,,,,way
 Hoofdfrontweg,,,,way
 Hoofdkerkstraat,,,,way
 Hooftvunderlei,,,,way
+Hoogland,,,,way
 Hoogpadlaan,,,,way
 Hoogstraat,,,,relation
 Hoogveld,,,,way
@@ -1166,6 +1197,7 @@ Huidevettersstraat,,,,way
 Huikstraat,,,,way
 Huisblokstraat,,,,way
 Huisveld,,,,way
+Hulgenrodestraat,,,,way
 Hulststraat,,,,way
 Hyacintenpad,,,,way
 Hydeparkstraat,,,,way
@@ -1196,8 +1228,11 @@ Jagerspad,,,,way
 Jagersstraat,,,,way
 "Jan Bielstraat",,,,way
 "Jan Blockxstraat",,,,relation
+"Jan Bosstraat",,,,way
 "Jan Brochovenstraat",,,,way
 "Jan De Groofstraat",,,,way
+"Jan Frans Stynenlei",,,,way
+"Jan Goovaersstraat",,,,way
 "Jan Janssensstraat",,,,way
 "Jan Peetersstraat",,,,way
 "Jan Romeostraat",,,,way
@@ -1245,6 +1280,7 @@ Joostplaats,,,,way
 "Jozef Kenneslei",,,,way
 "Jozef Libertstraat",,,,way
 "Jozef Posenaerstraat",,,,way
+"Jozef Reusenslei",,,,way
 "Jozef Stormsstraat",,,,way
 "Jozef Van Gansenstraat",,,,way
 "Jozef Verbovenlei",,,,way
@@ -1280,6 +1316,7 @@ Kardelaan,,,,way
 "Karel Meyvisstraat",,,,way
 "Karel Palmsstraat",,,,way
 "Karel Seclefstraat",,,,way
+"Karel Soetelaan",,,,way
 "Karel Van Overmeirelaan",,,,way
 "Karel Verbistpad",,,,way
 "Karel du Boislaan",,,,way
@@ -1360,6 +1397,7 @@ Klaverveldenlaan,,,,way
 "Kleine Stoppelbergen",,,,way
 Kleinesteenweg,,,,way
 Kleinheidestraat,,,,way
+Kleiputpad,,,,way
 Klerkenstraat,,,,way
 Klipstraat,,,,way
 Klokstraat,,,,way
@@ -1399,6 +1437,7 @@ Kopstraatje,,,,way
 Koraalplaats,,,,way
 Koralenbos,,,,way
 Korenstraat,,,,way
+Korenveld,,,,way
 "Korte Achteromstraat",,,,way
 "Korte Altaarstraat",,,,way
 "Korte Beeldekensstraat",,,,way
@@ -1440,6 +1479,7 @@ Korenstraat,,,,way
 Kortemarkstraat,,,,relation
 Kortestraat,,,,way
 Kotterstraat,,,,way
+"Koude Beeklaan",,,,way
 Koudebeekstraat,,,,way
 Kouter,,,,way
 Kouwerheide,,,,way
@@ -1501,6 +1541,7 @@ Lambrechtsstraat,,,,way
 Lammekensraamveld,,,,way
 Lammekensstraat,,,,way
 Landbouwstraat,,,,way
+Langbaan,,,,way
 Langbaanvelden,,,,way
 "Lange Achteromstraat",,,,way
 "Lange Altaarstraat",,,,way
@@ -1591,6 +1632,7 @@ Lillobrug,,,,way
 Limbastraat,,,,way
 Limburgstraat,,,,way
 Lindeboomplein,,,,way
+Lindenboomstraat,,,,way
 Lindenlei,,,,way
 "Lode Brionstraat",,,,way
 "Lode Sellaan",,,,way
@@ -1607,14 +1649,20 @@ Lorkenlaan,,,,way
 Lotusstraat,,,,way
 "Louis Francklaan",,,,way
 "Louis Frarynlaan",,,,way
+"Louis Huybrechtsstraat",,,,way
 "Louis Janssenslaan",,,,way
+"Louis Janssensstraat",,,,way
 "Louis Kieboomsstraat",,,,way
 "Louis Mastplein",,,,way
+"Louis Meynckenspad",,,,way
 "Louis Van Craenstraat",,,,way
+"Louis Van Regenmortellei",,,,way
 "Louis Wanbecqstraat",,,,way
 Louisalei,,,,way
 Louizaplaats,,,,way
 "Lucas Henninckstraat",,,,way
+Lucashoeve,,,,way
+"Lucien Hendrickxlei",,,,way
 Luisbekelaar,,,,way
 "Luitenant Naeyaertplein",,,,way
 Luithagen-Haven,,,,way
@@ -1644,6 +1692,7 @@ Malachietstraat,,,,way
 Malisgoed,,,,way
 Malooshof,,,,way
 Maloustraat,,,,way
+Malpertus,,,,way
 Manebruggestraat,,,,way
 Marathonstraat,,,,way
 "Marc Driespad",,,,way
@@ -1696,6 +1745,7 @@ Meirbrug,,,,way
 Meistraat,,,,way
 Melgesdreef,,,,way
 Melkmarkt,,,,way
+Mellegracht,,,,way
 Mellinetplein,,,,way
 Menegemlei,,,,way
 Merantistraat,,,,way
@@ -1704,6 +1754,7 @@ Merksemsesteenweg,,,,way
 Merksemsestraat,,,,way
 "Mertens en Torfsstraat",,,,way
 Mertensstraat,,,,way
+Meuleveld,,,,way
 Mexicoplein,,,,way
 Meyersstraat,,,,way
 Mezenlaan,,,,relation
@@ -1756,6 +1807,7 @@ Muizenstraat,,,,way
 Munsterstraat,,,,way
 Munthof,,,,way
 Muntstraat,,,,way
+Mussenhoevelaan,,,,way
 Mutsaardstraat,,,,way
 NSB-straat,,,,way
 Naftaweg,,,,way
@@ -1848,6 +1900,7 @@ Otterstraat,,,,way
 Oudaan,,,,way
 "Oude Beurs",,,,way
 "Oude Bosuilbaan",,,,way
+"Oude Haegevelde",,,,way
 "Oude Kleiputpad",,,,way
 "Oude Koornmarkt",,,,relation
 "Oude Papenstraat",,,,way
@@ -1981,6 +2034,7 @@ Poorthoflaan,,,,way
 Pootersstraat,,,,way
 Populierenlaan,,,,way
 Portugesestraat,,,,way
+Posthoevestraat,,,,way
 Posthofbrug,,,,way
 Posthoflei,,,,way
 Poststraat,,,,way
@@ -2018,6 +2072,7 @@ Raapstraat,,,,way
 Raasplein,,,,way
 Ramskapellestraat,,,,relation
 "Raoul Gregoirplein",,,,way
+"Raoul Grégoirplein",,,,way
 Ravelsbergstraat,,,,way
 Rechtestraat,,,,way
 "Rector Vermeylenlaan",,,,way
@@ -2027,6 +2082,7 @@ Reigersbosdreef,,,,way
 Reigershoek,,,,way
 Reigerstraat,,,,way
 Reinaartlaan,,,,way
+Reinaert,,,,way
 Reizigersstraat,,,,way
 Remershoek,,,,way
 Renbaanweg,,,,way
@@ -2074,10 +2130,12 @@ Romeynsweel,,,,way
 Roodborstlaan,,,,way
 Roodenbekehoek,,,,way
 Rooi,,,,way
+Rooibos,,,,way
 Rooiboslaan,,,,way
 Rooilaan,,,,way
 Rooiplein,,,,way
 Rosdijkweg,,,,way
+Rosekapellestraat,,,,way
 Rosenstraat,,,,way
 Rosier,,,,way
 Roskamgang,,,,way
@@ -2112,6 +2170,7 @@ Schaapskooi,,,,way
 Schaffenstraat,,,,relation
 Schaliemolenstraat,,,,way
 Schaliënstraat,,,,way
+Schanslaan,,,,way
 Schansstraat,,,,way
 Schansweg,,,,way
 Schapenstraat,,,,way
@@ -2137,6 +2196,7 @@ Schildersstraat,,,,way
 Schildstraat,,,,way
 Schindestraat,,,,way
 Schippersstraat,,,,way
+Schoendonck,,,,way
 Schoenmakersstraat,,,,way
 Schoenmarkt,,,,way
 Schoenstraat,,,,way
@@ -2216,6 +2276,7 @@ Smalleweg,,,,way
 Smedenstraat,,,,way
 Smetsstraat,,,,way
 Smidseweg,,,,way
+Smisbergstraat,,,,way
 Smyrnaplaats,,,,way
 Snellekreekstraat,,,,way
 Snijdersstraat,,,,way
@@ -2241,6 +2302,7 @@ Sporthalplein,,,,way
 Sportstraat,,,,way
 Sprangweelstraat,,,,way
 Spreeuwenstraat,,,,way
+Sprinkhaanveldestraat,,,,way
 Stabroeksebaan,,,,way
 Stadhouderslaan,,,,way
 Stadionstraat,,,,way
@@ -2259,7 +2321,7 @@ Steenovenstraat,,,,way
 Steenstraat,,,,way
 Steerveldstraat,,,,way
 Stenenbrug,,,,way
-Sterckshoflei,,,,way
+Sterdreef,,,,way
 Sterlingerstraat,,,,way
 Sterrenborgstraat,,,,way
 Sterrenlaan,,,,relation+way
@@ -2328,6 +2390,7 @@ Theaterplein,,,,way
 Thibautstraat,,,,way
 Thisiusstraat,,,,way
 Thonetlaan,,,,way
+Tibert,,,,way
 Tien-Gebodensteeg,,,,way
 Tiendenstraat,,,,way
 Tijsmanstunnel-West,,,,way
@@ -2387,7 +2450,6 @@ Unolaan,,,,way
 Utrechtstraat,,,,way
 Vaartdijk,,,,way
 Vaartkaai,,,,way
-Vaartweg,,,,way
 Vaderlandstraat,,,,way
 Valaarstraat,,,,way
 Valaartunnel,,,,way
@@ -2481,12 +2543,14 @@ Velodroomstraat,,,,way
 Veltwijcklaan,,,,way
 Venneborglaan,,,,way
 Venusstraat,,,,way
+Verbindingslaan,,,,way
 Verbondstraat,,,,way
 Verbrande-Entrepotstraat,,,,way
 Verbrandstraatje,,,,way
 Vercammenstraat,,,,way
 Verdraagzaamheidsplein,,,,way
 Verdussenstraat,,,,relation
+"Verlengde Schanslaan",,,,way
 Verlindenstraat,,,,way
 Verschansingstraat,,,,way
 Verversrui,,,,way
@@ -2514,6 +2578,7 @@ Villapark,,,,way
 "Vincent van Goghplein",,,,relation
 Vinçotteplein,,,,relation
 Vingerlingstraat,,,,way
+Vinkeniersweg,,,,way
 Vinkenstraat,,,,way
 Vinkenveld,,,,way
 Vinkeveldenplein,,,,way
@@ -2527,6 +2592,7 @@ Vlaamshoofdlaan,,,,way
 Vlaanderenstraat,,,,way
 Vlagstraat,,,,way
 Vlasmarkt,,,,relation+way
+Vlasput,,,,way
 Vleerakkerstraat,,,,way
 Vleeshouwersstraat,,,,way
 Vleeshuisstraat,,,,way
@@ -2539,6 +2605,7 @@ Voetbalstraat,,,,way
 Voetboogstraat,,,,way
 "Voetgangerstunnel Berchemstadionstraat",,,,way
 "Voetweg 31",,,,way
+Vogelenzang,,,,way
 Vogelzanglaan,,,,relation+way
 Volhardingstraat,,,,way
 Volkerenlaan,,,,way
@@ -2555,6 +2622,7 @@ Vorsterslaan,,,,way
 Vosseschijnstraat,,,,way
 Vossestaartstraat,,,,way
 Vosstraat,,,,way
+Vremdervoetpad,,,,way
 Vrieskaai,,,,way
 Vrijdagmarkt,,,,way
 Vrijdagmarktstraatje,,,,way
@@ -2614,6 +2682,7 @@ Weide,,,,way
 Weidestraat,,,,way
 Weilandstraat,,,,way
 Welvaartstraat,,,,way
+Wenigerstraat,,,,way
 Werbrouckstraat,,,,way
 "Werfoprit wulpstraat",,,,way
 "Werfweg Oosterweelwerken tot 2030",,,,way
@@ -2631,6 +2700,7 @@ Wiegstraat,,,,way
 Wielewaalstraat,,,,way
 Wielrijdersstraat,,,,way
 Wielseweg,,,,way
+Wijnerf,,,,way
 Wijngaardberg,,,,way
 Wijngaardbrug,,,,way
 Wijngaardstraat,,,,way
@@ -2651,6 +2721,7 @@ Wilsonweg,,,,way
 "Wim Saerensplein",,,,way
 Wimpelstraat,,,,way
 Windhalmstraat,,,,way
+Windmolenberg,,,,way
 Windmolenstraat,,,,way
 Windmolenweg,,,,way
 Winkelhaakstraat,,,,way
@@ -2704,6 +2775,7 @@ Zevenbergen,,,,way
 Zevenbergenlaan,,,,way
 Zevensterstraat,,,,way
 Zillebekelaan,,,,relation+way
+Zilverenhoek,,,,way
 Zilvermeeuwstraat,,,,way
 Zilversmidstraat,,,,way
 Zilvervosstraat,,,,way
@@ -2714,6 +2786,7 @@ Zomerdijklaan,,,,way
 Zomerweg,,,,way
 Zonnedauwstraat,,,,way
 Zonnewijzerstraat,,,,way
+Zoomweg,,,,way
 Zoomweg-Zuid,,,,way
 Zorgvlietstraat,,,,way
 Zoutedijk,,,,relation
